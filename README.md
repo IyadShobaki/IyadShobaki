@@ -38,3 +38,11 @@ I’m a passionate developer with a background in computer science and hands-on 
 - MuleSoft Certified Developer (MCD) - Level 1(Mule 4), MuleSoft       Apr-2021
 - Oracle Certified Associate, Java SE 8 Programmer, Oracle University  May-2021 
 
+---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IyadShobaki&label=Profile%20views&color=0e75b6&style=flat" alt="IyadShobaki" /> </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IyadShobaki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="IyadShobaki" /></p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=IyadShobaki&show_icons=true&theme=tokyonight&locale=en" alt="IyadShobaki" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IyadShobaki&&theme=tokyonight" alt="IyadShobaki" /></p>
