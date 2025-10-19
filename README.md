@@ -13,17 +13,18 @@ I’m a passionate developer with a background in computer science and hands-on 
 ---
 
 ### Hard Skills
-- Languages & Tools: HTML/CSS, JavaScript
-- Technologies: Git, GitHub, VSCode, Figma, Chrome DevTools, BEM, Bash, Postman
+- Languages: HTML/CSS, JavaScript
+- Technologies: Git, GitHub, VSCode, Figma, Chrome DevTools, BEM, Bash
 - **Next goals:** Mastering Node.js and Express.js, React, MongoDB
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
 
@@ -40,6 +41,16 @@ I’m a passionate developer with a background in computer science and hands-on 
 - Accenture (contractor from Revature) – Application Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Aug-2021 to Jan-2023\
   <br>
 **Projects:** I worked on several financial integration projects for Accenture’s client, helping connect data between upstream and downstream applications using MuleSoft and related technologies. I served as the main developer on one major project where we received XML payloads through Kafka messages. My role involved building MuleSoft (inbound and outbound Messaging apps and REST APIs) to listen for and process these messages, insert the data into a SQL Server database, then publish the new data.
+    - Tools and Technologies: MuleSoft, SQL Server, Postman, Jira, SourceTree, Bitbucket
+  
+<p align="center">
+    <a href="https://www.mulesoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="MuleSoft" width="40" height="40"/> </a>
+    <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40"/></a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+    <a href="https://confluence.atlassian.com/alldoc" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> </a>
+    <a href="https://confluence.atlassian.com/alldoc" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40" height="40"/> </a>
+    <a href="https://confluence.atlassian.com/alldoc" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/> </a>
+ </p>   
 ---
 
 ### Education
@@ -62,6 +73,8 @@ I’m a passionate developer with a background in computer science and hands-on 
 
 
 <!--
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
