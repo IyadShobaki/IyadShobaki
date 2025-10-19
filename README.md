@@ -7,8 +7,7 @@ I’m a passionate developer with a background in computer science and hands-on 
 - 🌱 I’m currently learning on building websites using CSS, HTML and JavaScript
 - 🤔 I’m looking for help getting new opportunities in the tech industry
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/iyadshobaki/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/iyadshobaki" height="30" width="40" />
-</a>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/iyadshobaki" height="30" width="40" /></a>
 - 😄 Pronouns: E-yad
 
 ---
@@ -48,7 +47,7 @@ I’m a passionate developer with a background in computer science and hands-on 
    
 ### Certifications
 - MuleSoft Certified Developer (MCD) - Level 1(Mule 4), MuleSoft&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Apr-2021
-- Oracle Certified Associate, Java SE 8 Programmer, Oracle University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;May-2021 
+- Oracle Certified Associate, Java SE 8 Programmer, Oracle University [Skill Badge](https://www.credly.com/badges/78bd7450-d272-41a0-9f6f-e0c6062fe447)&emsp;&emsp;&emsp;&emsp;&emsp;May-2021 
 
 ---
 ### Github Stats
