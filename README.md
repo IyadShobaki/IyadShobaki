@@ -1,10 +1,13 @@
 ## Hi 👋, I'm Iyad Shobaki and I'm a Software Engineer
 
 ### About Me
-I’m a passionate developer with a background in computer science and hands-on experience as an application developer at Accenture. After earning my Associate’s Degree from Stark State College in 2020, I joined Revature's Mulesoft bootcamp where I learned integration and API development. Today, I’m furthering my skills at TripleTen to become a Full Stack Developer, driven by a desire to build scalable, user-focused web applications. I’m excited to explore new opportunities where I can contribute, learn, and grow.
+I’m currently training and working on full stack web application using React, JS, Node, MongoDB and Express. Before that, I was a MuleSoft Developer for 2 years, working for a financial services company with the integration team.  I worked on API integrations, SQL databases, and complex data workflows on multiple financial projects. That experience enhanced my problem-solving, collaboration, and architectural analysis skills.
+
+Now, I’m looking for a web-development role where I can apply my technical foundation and contribute to building modern, scalable applications.
+
 
 - 🔭 I’m currently working on my bootcamp projects - Practicum's Full Stack Web Developer bootcamp
-- 🌱 I’m currently learning on building websites using CSS, HTML and JavaScript
+- 🌱 I’m currently learning on building websites using React, Node.js, Express and MongoDB
 - 🤔 I’m looking for help getting new opportunities in the tech industry
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/iyadshobaki/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/iyadshobaki" height="30" width="40" /></a>
@@ -14,8 +17,8 @@ I’m a passionate developer with a background in computer science and hands-on 
 
 ### Hard Skills
 - Languages: HTML/CSS, JavaScript
-- Technologies: Git, GitHub, VSCode, Figma, Chrome DevTools, BEM, Bash
-- **Next goals:** Mastering Node.js and Express.js, React, MongoDB
+- Technologies: Node.js and Express.js, React, MongoDB, Git, GitHub, VSCode, Figma, Chrome DevTools, BEM, Bash
+- **Next goals:** Learning how to implemet AI agents in my applications
 
 <p align="center">
      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
